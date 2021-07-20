@@ -2,5 +2,5 @@
 A repo I use as an extension of my mental memory
 
 ## git
-* git reset --soft HEAD~1 //unstage your last commit
-* git reset --soft <commit> //specify the commit hash
+* git reset --soft HEAD~1 _//unstage your last commit_
+* git reset --soft <commit> _//specify the commit hash_
