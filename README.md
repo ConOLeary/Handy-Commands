@@ -10,3 +10,5 @@ A repo I use as an extension of my mental memory
 ## django
 * python3 manage.py runserver //start server
 * python3 manage.py makemigrations; python3 manage.py migrate _//sync with database_
+* sqlite3  db.sqlite3
+* ./manage.py shell < server/testscript.py
