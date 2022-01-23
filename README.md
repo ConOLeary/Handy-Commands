@@ -7,8 +7,11 @@ A repo I use as an extension of my mental memory
   
 * git push origin <your_branch_name> --force _//make what you have locally gospel_
 
-## django
-* python3 manage.py runserver //start server
+## Django
+* python3 manage.py runserver _//start server_
 * python3 manage.py makemigrations; python3 manage.py migrate _//sync with database_
+* ./manage.py shell < server/testscript.py _//run py scripts manually_
+                                          
+## SQlite3
 * sqlite3  db.sqlite3
-* ./manage.py shell < server/testscript.py
+* SELECT * FROM server_world;
