@@ -6,6 +6,7 @@ A repo I use as an extension of my mental memory
 * git reset --soft <commit> _//specify the commit hash_
 * git push origin <your_branch_name> --force _//make what you have locally gospel_
 * git remote add origin <url>
+* git push --force _//handy when deleting the last remote commit
 
 ## Django
 * python3 manage.py runserver _//start server_
