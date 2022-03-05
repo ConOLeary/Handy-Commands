@@ -18,3 +18,4 @@ A repo I use as an extension of my mental memory
 ## SQlite3
 * sqlite3  db.sqlite3
 * SELECT * FROM server_world;
+* .headers on _//show column names for querys_
