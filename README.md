@@ -22,6 +22,12 @@ _A repo I use as an extension of my mental memory_
 * SELECT * FROM server_world;
 * .headers on _//show column names for querys_
 
+### virtualenv and related
+* virtualenv abc _// creates environment 'abc'
+* venv\Scripts\activate _// run in 'Scripts' folder of relevant venv. Windows-specific command
+* deactivate
+* pip list
+
 ## CODE
 
 ### python
