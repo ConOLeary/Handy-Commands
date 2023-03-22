@@ -10,6 +10,9 @@ _A repo I use as an extension of my mental memory_
 * git remote add origin <url>
 * git push --force _//handy when deleting the last remote commit
 
+### pyinstaller
+* pyinstaller --onefile name_of_script.py --name name_of_exe
+
 ### Django
 * python3 manage.py runserver _//start server_
 * python3 manage.py makemigrations; python3 manage.py migrate _//sync with database_
